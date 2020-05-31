@@ -150,7 +150,7 @@ class PermissionServiceProvider extends ServiceProvider
             return $this;
         });
     }
- 
+
     /**
      * Returns existing migration file if found, else uses the current timestamp.
      *
