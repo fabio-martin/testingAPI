@@ -1,0 +1,11 @@
+
+const warehouseActionTypes = {
+    GET_ALL_WAREHOUSES : 'GET_ALL_WAREHOUSES',
+    GET_ERRORS: 'GET_ERRORS',
+    DELETE_WAREHOUSE: 'DELETE_WAREHOUSE',
+    EDIT_WAREHOUSE: 'EDIT_WAREHOUSE',
+    GET_WAREHOUSE_BY_ID: 'GET_WAREHOUSE_BY_ID',
+    ADD_CHANGE: 'ADD_CHANGE',
+}
+
+export default warehouseActionTypes;
